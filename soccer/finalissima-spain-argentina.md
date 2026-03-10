@@ -1,9 +1,15 @@
-# 2026 Finalissima: Spain vs Argentina
+# Finalissima Preview: Spain vs Argentina Before the World Cup
 
-**Date:** 2026-03-10
+**March 10, 2026**
 
-The 2026 Finalissima is set for March 27 at Lusail Stadium, Qatar. Spain (Euro 2024 winners) vs Argentina (Copa America 2024 champions). The two best international sides in the world, three months before the 2026 World Cup.
+Euro 2024 winners vs Copa America 2024 champions. March 27 at Lusail Stadium, Qatar — the same venue where Argentina beat France in the 2022 World Cup final. All 88,966 tickets sold out in two hours. No extra time — straight to penalties if level after 90 minutes.
 
-**Why it matters:** This is the last high-stakes showdown before the World Cup. Form, tactics, and squad fitness from this match will shape tournament predictions.
+The headline everyone wanted was Messi vs Yamal — a 20-year age gap, legacy vs emergence. That won't happen. Messi (38) has ruled himself out, saying he doesn't want to be a "burden" if not fully match-sharp. He's still targeting the World Cup itself. Argentina also lose Dybala (knee surgery), Foyth (ruptured Achilles), and Carboni to injuries.
 
-**Source:** [UEFA](https://www.uefa.com/news-media/news/02a0-1f71bdf70a9a-b6067bd647f2-1000--2026-european-football-calendar-dates-for-all-uefa-competiti/)
+Spain aren't full strength either. Nico Williams is a major doubt with persistent pubalgia, Merino is out with a foot fracture, Omorodion tore his ACL, and Balde has a hamstring issue. But 18-year-old Lamine Yamal becomes the marquee attraction.
+
+The head-to-head is perfectly balanced: 14 meetings, 6 wins each, 2 draws. Spain have won 3 of the last 4. Each of the last four clashes had 3+ goals with both sides scoring. Bookmakers have Spain as slight favorites at 11/10.
+
+**My take:** Without Messi, this becomes a dress rehearsal more than a statement game for Argentina. Scaloni will test his depth — can Alvarez and Enzo Fernandez carry the creative load without the GOAT? For Spain, it's a chance to confirm their Euro 2024 form translates to a World Cup year. The real winner here might be whoever loses — they'll have motivation and tactical adjustments heading into the World Cup.
+
+*Sources: UEFA, Goal.com, Bolavip, FourFourTwo, World Soccer Talk, CONMEBOL*

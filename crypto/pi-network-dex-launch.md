@@ -1,9 +1,13 @@
-# Pi Network DEX Launching March 12
+# Pi Network's DEX Launches Wednesday — Credibility Test Incoming
 
-**Date:** 2026-03-10
+**March 10, 2026**
 
-Pi Network confirmed its decentralized exchange (DEX) goes live on March 12, 2026. After years of mobile mining and skepticism about real utility, this is the first functional on-chain trading infrastructure for Pi.
+Pi Network's native DEX goes live March 12 with AMM pools, token creation tools, and peer-to-peer trading. The timing is deliberate — two days before Pi Day (March 14). On paper, it's a milestone: 17.7M KYC-verified users, 421K active nodes, 300+ mainnet apps.
 
-**Why it matters:** This is a make-or-break moment for Pi's credibility. A working DEX means real liquidity and price discovery — or it exposes the gap between hype and substance.
+But the numbers that matter tell a different story. PI trades at ~$0.17, down 94% from its $2.10 peak. Bybit's founder Ben Zhou has publicly called it a "scam." And here's the elephant in the room: only 9.3B of 100B total tokens are circulating. That means 90% of supply hasn't hit the market yet.
 
-**Source:** [MEXC News](https://www.mexc.com/en-GB/news/849816)
+Analysts are split. Bears say the supply overhang will crush any price recovery — last Pi Day saw a community pump attempt that ended in a 66% monthly drop. Bulls argue the DEX proves real utility and transforms Pi from a "community token" into a functional web3 ecosystem.
+
+**My take:** The DEX launch is binary. If it generates real volume — actual liquidity, actual trades, not just airdrop farmers — it validates years of patience from the community. If daily volume looks like $50K on a ghost chain, the "scam" label sticks permanently. The 90% unlocked supply is the real risk nobody's pricing in. Watch volume on Day 1, not price.
+
+*Sources: MEXC News, BingX, CoinCentral, 99Bitcoins, HOKANEWS, CoinFomania*
