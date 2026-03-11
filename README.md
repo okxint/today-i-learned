@@ -10,6 +10,7 @@ By [Ashwin](https://github.com/okxint)
 
 | Date | Topic | Title |
 |------|-------|-------|
+| 2026-03-11 | AI | [Anthropic sued the Pentagon — and it might be the most important AI story of the year](ai/anthropic-sues-pentagon.md) |
 | 2026-03-10 | AI | [Apple outsourced Siri's brain to Google — and that's the smart move](ai/apple-siri-gemini-relaunch.md) |
 | 2026-03-10 | Crypto | [Pi Network's DEX launches Wednesday — credibility test incoming](crypto/pi-network-dex-launch.md) |
 | 2026-03-10 | Soccer | [Finalissima preview: Spain vs Argentina before the World Cup](soccer/finalissima-spain-argentina.md) |
