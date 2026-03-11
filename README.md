@@ -12,11 +12,6 @@ By [Ashwin](https://github.com/okxint)
 |------|-------|-------|
 | 2026-03-11 | AI | [Anthropic sued the Pentagon — and it might be the most important AI story of the year](ai/anthropic-sues-pentagon.md) |
 | 2026-03-10 | AI | [Apple outsourced Siri's brain to Google — and that's the smart move](ai/apple-siri-gemini-relaunch.md) |
-| 2026-03-10 | Crypto | [Pi Network's DEX launches Wednesday — credibility test incoming](crypto/pi-network-dex-launch.md) |
-| 2026-03-10 | Soccer | [Finalissima preview: Spain vs Argentina before the World Cup](soccer/finalissima-spain-argentina.md) |
-| 2026-03-10 | F1 | [Russell wins F1's new era opener — but drivers aren't sold](f1/russell-wins-australia-2026.md) |
-| 2026-03-10 | Music | [The trial that could break up live music's monopoly](music/live-nation-antitrust-trial.md) |
-| 2026-03-10 | Business | [A.Team and the rise of AI-matched talent](business/ateam-ai-talent-marketplace.md) |
 
 ## Weekly Roundups
 
