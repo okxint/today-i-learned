@@ -10,6 +10,7 @@ By [Ashwin](https://github.com/okxint)
 
 | Date | Topic | Title |
 |------|-------|-------|
+| 2026-03-17 | Soccer | [Champions League Round of 16 second legs: 8 ties, 4 near-impossible comebacks, and one very nervous Liverpool](soccer/ucl-round-of-16-second-legs-march-2026.md) |
 | 2026-03-15 | Crypto | [Bitcoin just mined its 20 millionth coin - only 1 million left, and the next one takes 114 years](crypto/bitcoin-20-million-mined.md) |
 | 2026-03-12 | AI | [The March 2026 AI Avalanche: 12+ models, $3B in funding, and the week that redefined the industry](ai/march-2026-ai-avalanche.md) |
 | 2026-03-11 | AI | [Anthropic sued the Pentagon — and it might be the most important AI story of the year](ai/anthropic-sues-pentagon.md) |
