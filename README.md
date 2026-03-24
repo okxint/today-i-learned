@@ -10,6 +10,7 @@ By [Ashwin](https://github.com/okxint)
 
 | Date | Topic | Title |
 |------|-------|-------|
+| 2026-03-24 | Product | [How I'd rebuild Siri from scratch — an AI PM's perspective](product/rebuild-siri-ai-pm-case-study.md) |
 | 2026-03-23 | Soccer | [A 21-year-old from Ancoats just ended Arsenal's quadruple dream at Wembley](soccer/carabao-cup-final-2026.md) |
 | 2026-03-20 | Soccer | [The Champions League quarter-final draw is here - every tie is a final](soccer/ucl-quarter-final-draw-2026.md) |
 | 2026-03-17 | Soccer | [Champions League Round of 16 second legs: 8 ties, 4 near-impossible comebacks, and one very nervous Liverpool](soccer/ucl-round-of-16-second-legs-march-2026.md) |
