@@ -10,6 +10,7 @@ By [Ashwin](https://github.com/okxint)
 
 | Date | Topic | Title |
 |------|-------|-------|
+| 2026-03-25 | F1 | [Mercedes is back, and a 19-year-old from Bologna is leading the charge](f1/mercedes-is-back-2026.md) |
 | 2026-03-24 | Product | [How I'd rebuild Siri from scratch — an AI PM's perspective](product/rebuild-siri-ai-pm-case-study.md) |
 | 2026-03-23 | Soccer | [A 21-year-old from Ancoats just ended Arsenal's quadruple dream at Wembley](soccer/carabao-cup-final-2026.md) |
 | 2026-03-20 | Soccer | [The Champions League quarter-final draw is here - every tie is a final](soccer/ucl-quarter-final-draw-2026.md) |
