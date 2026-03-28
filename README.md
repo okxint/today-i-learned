@@ -10,6 +10,7 @@ By [Ashwin](https://github.com/okxint)
 
 | Date | Topic | Title |
 |------|-------|-------|
+| 2026-03-29 | Business | [Wall Street just entered correction territory, and the word nobody wants to say is stagflation](business/wall-street-correction-iran-oil-shock-2026.md) |
 | 2026-03-27 | F1 | [Max Verstappen is stuck in a car he hates, and Red Bull doesn't have an answer](f1/verstappen-red-bull-crisis-2026.md) |
 | 2026-03-25 | F1 | [Mercedes is back, and a 19-year-old from Bologna is leading the charge](f1/mercedes-is-back-2026.md) |
 | 2026-03-24 | Product | [How I'd rebuild Siri from scratch — an AI PM's perspective](product/rebuild-siri-ai-pm-case-study.md) |
