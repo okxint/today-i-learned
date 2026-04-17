@@ -21,7 +21,7 @@ Read that bracket again. One side has four Champions League titles in the last d
 
 A rematch from last season's round of 16 where PSG knocked Liverpool out on penalties. Kvaratskhelia just put 8 goals past Chelsea across two legs. Salah just hit his 50th Champions League goal dismantling Galatasaray 4-0 at Anfield.
 
-This is box office. Two managers who believe attack is the only form of defense. PSG are the defending champions and look even more dangerous this year with Kvaratskhelia fully integrated. Liverpool have the best home record in European knockout football, period. The second leg is at Anfield. PSG know what that means — everyone knows what that means.
+This is box office. Two managers who believe attack is the only form of defense. PSG are the defending champions and look even more dangerous this year with Kvaratskhelia fully integrated. Liverpool have the best home record in European knockout football, period. The second leg is at Anfield. PSG know what that means - everyone knows what that means.
 
 The head-to-head history is tight. PSG won the last meeting on pens. Liverpool have that "European nights are different" energy that turns Anfield into something unexplainable. Slot vs Luis Enrique is a tactical chess match that could go either way over 180 minutes.
 
@@ -33,7 +33,7 @@ The giants. The aristocrats. Combined 21 Champions League titles between them.
 
 Madrid strolled past City with Valverde's first-half hat trick. Bayern put 10 past Atalanta across two legs. Both teams are operating at a level that makes everyone else look amateur.
 
-Ancelotti vs Kompany. Experience vs evolution. Madrid have the tournament pedigree — they literally always find a way. Bayern have the squad depth and a pressing system that would suffocate most teams. But Madrid aren't most teams. Vinicius, Mbappe (when fit), Bellingham (coming back from injury) — the talent pool is absurd.
+Ancelotti vs Kompany. Experience vs evolution. Madrid have the tournament pedigree - they literally always find a way. Bayern have the squad depth and a pressing system that would suffocate most teams. But Madrid aren't most teams. Vinicius, Mbappe (when fit), Bellingham (coming back from injury) - the talent pool is absurd.
 
 This is the de facto final for most people. Whoever survives this plays the winner of PSG/Liverpool in the semis. That entire side of the bracket is a gauntlet.
 
@@ -41,7 +41,7 @@ This is the de facto final for most people. Whoever survives this plays the winn
 
 ## Barcelona vs Atletico Madrid
 
-The all-Spanish derby in the quarters. Barcelona just put 7 past Newcastle at Camp Nou. Atletico put 5 past Spurs in the first leg and 7 across the tie. Both teams are scoring at a rate that's genuinely unsustainable — and they're about to face each other.
+The all-Spanish derby in the quarters. Barcelona just put 7 past Newcastle at Camp Nou. Atletico put 5 past Spurs in the first leg and 7 across the tie. Both teams are scoring at a rate that's genuinely unsustainable - and they're about to face each other.
 
 Yamal vs Griezmann. Flick's high-line vs Simeone's counter. This is the tie that could produce 10 goals across two legs or a cagey 1-0, 0-0 grind. There's no in-between with these two.
 
@@ -51,19 +51,19 @@ Barca's 17-game home winning streak is terrifying. But Atletico away from home i
 
 ## Sporting CP vs Arsenal
 
-On paper, Arsenal's easiest draw. In reality, Sporting just came back from 3-0 down against Bodo/Glimt to win 5-3 on aggregate — the fifth team in Champions League history to overturn a 3+ goal deficit. You don't do that without something special in the squad.
+On paper, Arsenal's easiest draw. In reality, Sporting just came back from 3-0 down against Bodo/Glimt to win 5-3 on aggregate - the fifth team in Champions League history to overturn a 3+ goal deficit. You don't do that without something special in the squad.
 
 But let's be real. Arsenal won all eight league phase games. Beat Leverkusen home and away. Haven't lost in Europe all season. They're favorites to win the whole thing and Sporting, for all their heart, are the weakest team left in the draw.
 
-The first leg in Lisbon is the danger game. If Arsenal get an away goal or two, the tie is effectively dead before it reaches the Emirates. Sporting's best hope is the emotional high from the Bodo comeback carrying over — but that's two weeks away and adrenaline has an expiry date.
+The first leg in Lisbon is the danger game. If Arsenal get an away goal or two, the tie is effectively dead before it reaches the Emirates. Sporting's best hope is the emotional high from the Bodo comeback carrying over - but that's two weeks away and adrenaline has an expiry date.
 
 **My call:** Arsenal. Comfortably. This is a 4-1 or 5-2 aggregate. Arteta won't let his side slip against the "easiest" draw they could've gotten.
 
 ## The Big Picture
 
 The semi-final bracket is set:
-- **PSG/Liverpool vs Real Madrid/Bayern** — the side of death
-- **Barcelona/Atletico vs Sporting/Arsenal** — the side of opportunity
+- **PSG/Liverpool vs Real Madrid/Bayern** - the side of death
+- **Barcelona/Atletico vs Sporting/Arsenal** - the side of opportunity
 
 If you're Arsenal, you're looking at this bracket and thinking "this is our year." Beat Sporting, then face Barca or Atletico in the semis. That's as favorable a path to Budapest as you could ask for. The real monsters are all on the other side beating each other up.
 
