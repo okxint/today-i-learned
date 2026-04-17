@@ -1,4 +1,6 @@
-# Champions League quarterfinals second leg: Bayern produce an instant classic, PSG finish the job, and the semi-final bracket is set
+# The night Real Madrid's Champions League era ended
+
+**Subtitle:** Bayern 4-3 Madrid in an all-time classic. PSG humiliate Liverpool at Anfield. Barcelona go home again. And the four teams left tell you exactly where European football is heading.
 
 **Date:** 2026-04-17
 **Topic:** Soccer / Champions League
