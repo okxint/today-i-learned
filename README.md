@@ -10,6 +10,9 @@ By [Ashwin](https://github.com/okxint)
 
 | Date | Topic | Title |
 |------|-------|-------|
+| 2026-04-27 | Soccer | [Champions League semi-final preview: four teams, two ties, and the most unpredictable bracket in years](soccer/ucl-semi-final-preview-2026.md) |
+| 2026-04-25 | AI | [Google just split its TPU in two](ai/google-cloud-next-tpu-ironwood-2026.md) |
+| 2026-04-23 | AI | [SpaceX just offered to buy Cursor for $60 billion](ai/spacex-cursor-60-billion-deal-april-2026.md) |
 | 2026-04-21 | AI | [The AI demand bubble nobody's talking about, and why Anthropic might be the only one who gets it](ai/anthropic-pricing-ai-demand-inflated-april-2026.md) |
 | 2026-04-20 | Soccer | [Three points, one game in hand, and the title race Arsenal were running away with is suddenly alive](soccer/premier-league-title-race-city-arsenal-april-2026.md) |
 | 2026-04-17 | Soccer | [The night Real Madrid's Champions League era ended](soccer/ucl-quarterfinals-second-leg-2026.md) |
