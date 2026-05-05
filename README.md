@@ -10,6 +10,11 @@ By [Ashwin](https://github.com/okxint)
 
 | Date | Topic | Title |
 |------|-------|-------|
+| 2026-05-04 | Business | [How a movie star broke Tamil Nadu's 60-year two-party system](business/tamil-nadu-elections-tvk-vijay-2026.md) |
+| 2026-05-03 | Soccer | [Arsenal are 6 points clear and the title race might already be over](soccer/premier-league-title-race-arsenal-6-clear-may-2026.md) |
+| 2026-05-02 | Business | [Apple just reported $111 billion in revenue for a single quarter](business/apple-q2-2026-earnings.md) |
+| 2026-04-30 | Soccer | [Atletico 1-1 Arsenal: both penalties, zero from open play](soccer/ucl-semi-atletico-arsenal-first-leg-2026.md) |
+| 2026-04-29 | Soccer | [PSG 5-4 Bayern: nine goals in a Champions League semi-final](soccer/ucl-semi-psg-bayern-first-leg-2026.md) |
 | 2026-04-27 | Soccer | [Champions League semi-final preview: four teams, two ties, and the most unpredictable bracket in years](soccer/ucl-semi-final-preview-2026.md) |
 | 2026-04-25 | AI | [Google just split its TPU in two](ai/google-cloud-next-tpu-ironwood-2026.md) |
 | 2026-04-23 | AI | [SpaceX just offered to buy Cursor for $60 billion](ai/spacex-cursor-60-billion-deal-april-2026.md) |
