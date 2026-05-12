@@ -10,6 +10,7 @@ By [Ashwin](https://github.com/okxint)
 
 | Date | Topic | Title |
 |------|-------|-------|
+| 2026-05-12 | Soccer | [PSG vs Arsenal in Budapest: the Champions League final nobody expected and everyone wanted](soccer/ucl-final-psg-arsenal-preview-2026.md) |
 | 2026-05-04 | Business | [How a movie star broke Tamil Nadu's 60-year two-party system](business/tamil-nadu-elections-tvk-vijay-2026.md) |
 | 2026-05-03 | Soccer | [Arsenal are 6 points clear and the title race might already be over](soccer/premier-league-title-race-arsenal-6-clear-may-2026.md) |
 | 2026-05-02 | Business | [Apple just reported $111 billion in revenue for a single quarter](business/apple-q2-2026-earnings.md) |
