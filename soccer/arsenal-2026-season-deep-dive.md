@@ -85,7 +85,7 @@ The way they defend in Europe is different to how they defend in the league. In 
 
 PSG are defending Champions League winners. They beat Real Madrid in the group stage. They beat Chelsea, Liverpool, and Bayern to reach the final. They are not a soft touch. Dembele and Kvaratskhelia on the wings is the best wide pair in the competition. Joao Neves is one of the best midfielders in Europe at 21. They have been ruthlessly efficient in the knockout rounds.
 
-Arsenal beat them in the league phase when that mattered less. Finals are different. Finals are one game, 90 minutes, one mistake can end everything.
+Finals are different to every other game. Finals are one game, 90 minutes, one mistake can end everything.
 
 The thing Arsenal have that PSG might not is a collective identity that feels genuinely unbreakable. PSG have always had the talent. Whether they have the cohesion, the understanding that winning ugly is still winning, is the question. Their 5-4 first leg against Bayern was extraordinary going forward. It was also a defensive shambles that should have cost them the tie. Against Arsenal, you cannot defend like that.
 
